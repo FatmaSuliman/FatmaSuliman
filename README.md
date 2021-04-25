@@ -2,7 +2,7 @@
 
 ### I'm Fatma! 👨‍💻 </br>
 
-I'm 23 years old. I have passion to learn and code . 🤓
+I have passion to learn and code . 🤓
 
 I'm Student an Ain shams Accademy faculty of management information System
 
