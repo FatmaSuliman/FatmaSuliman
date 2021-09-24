@@ -23,7 +23,7 @@ I started with **HTML5**, **CSS3** and **JavaScript**.
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
 </a>
 <!-- Linked in -->
-<a href="https://www.linkedin.com/in/fatma-suliman-abba44219/"  target="_blank">
+<a href="https://www.linkedin.com/in/fatma-suliman-abba44219/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
