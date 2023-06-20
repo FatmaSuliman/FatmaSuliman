@@ -1,3 +1,1 @@
- 
-Hi i'm fatma Uİ/UX designer
-who enjoys working with challenges to learn somthing new have a passion for what i do and im willing to konw more Want to go deep into the UX and Uİ process and seeking to share my knowleage...
+ I am a software engineer with a strong focus on backend development. My journey in programming began in 2019, and since then I have been steadily progressing in my skills and knowledge.
