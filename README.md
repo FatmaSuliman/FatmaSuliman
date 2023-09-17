@@ -1,1 +1,2 @@
- I am a software engineer with a strong focus on backend development. My journey in programming began in 2019, and since then I have been steadily progressing in my skills and knowledge.
+Hello 🙋
+As a junior Software Test Engineer , I bring a passion for software testing and a solid foundation in software development and testing methodologies proficient in programming languages such as Java im dedicated to delivering efficient and reliable testing solutions and seeking opportunities to contribute my skills and knowledge to a dynamic and challenging environment in the software testing industry
